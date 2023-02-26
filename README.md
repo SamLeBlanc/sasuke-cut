@@ -24,3 +24,7 @@
 ## Data
 
 [MovieNet](https://movienet.github.io/)
+
+
+## Paths Forward
+[This Netflix blog series](https://netflixtechblog.com/new-series-creating-media-with-machine-learning-5067ac110bcd) does a good job at demonstrating some of the ways we can think about using different aspects of the videofile for ML.
